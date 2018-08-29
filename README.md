@@ -1,14 +1,15 @@
 ## HelloKevin_Pre_Work_Project
 
 ### App Description
-- 
+- A Cool little application that shows some of the neat possibilities of Android Studios to create amazing things!
+- It showcases a text view at the top, and gives the user some options of how they would like to alter the text.
+   - Allowing the user to change the color of the text view.
+   - Allowing the user to change the color of the background of the application.
+   - Allowing the user to change the text to: "Android is Awesome!"
+   - Giving the user the freedom to change the text to anything that they would like utilizing a Edit Text widget!
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="http://g.recordit.co/DzRTRAEGww.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
